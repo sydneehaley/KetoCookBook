@@ -4,7 +4,7 @@ A web app to find, share, and store recipes for ketogenic diet enthusiasts.
 
 ## Author
 
-Sydnee Haley
+Sydnee Haley ・[sydneehaley.com](http://sydneehaley.com)
 
 ## Overview
 
@@ -12,4 +12,4 @@ This is a full stack single page application that uses React.js, Express.js/Node
 
 ## Demo
 
-https://ketocookbook-app.herokuapp.com/
+[Heroku](https://ketocookbook-app.herokuapp.com/)
